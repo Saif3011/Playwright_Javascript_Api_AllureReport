@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 17 12:11:45 CET 2024","Wed Jan 17 12:11:46 CET 2024","1522","chromium","Reporters.spec.js","","","","test3",""
+"passed","Wed Jan 17 12:11:33 CET 2024","Wed Jan 17 12:11:44 CET 2024","11124","chromium","Reporters.spec.js","","","","test1",""
+"passed","Wed Jan 17 12:11:44 CET 2024","Wed Jan 17 12:11:45 CET 2024","1090","chromium","Reporters.spec.js","","","","test2",""
+"failed","Wed Jan 17 11:32:15 CET 2024","Wed Jan 17 11:32:15 CET 2024","72","chromium","Dialog.spec.js","","","","Prompt dialog",""
